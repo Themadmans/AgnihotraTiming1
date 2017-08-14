@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgnihotraTiming</string>
+    <string name="title_activity_maps">Select your Location</string>
+    <string name="title_dialog">Select your Location</string>
+    <string name="text_dialog">How would you like to select your location ? </string>
+    <string name="Map_dialog">Use Google Maps</string>
+    <string name="Manual_Dialog">Manually Enter my Location</string>
+</resources>

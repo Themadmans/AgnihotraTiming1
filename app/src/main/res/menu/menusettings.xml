@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <!-- Search / will display always -->
+        <item android:id="@+id/raju1"
+            android:icon="@drawable/cast_expanded_controller_seekbar_thumb"
+            android:title="Menu1"
+            app:showAsAction="ifRoom"/>
+
+        <!-- Location Found -->
+        <item
+            android:id="@+id/raju2"
+            android:icon="@drawable/cast_ic_mini_controller_play"
+
+            app:showAsAction="ifRoom"
+            android:title="play" />
+
+</menu>
